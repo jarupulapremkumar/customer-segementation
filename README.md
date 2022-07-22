@@ -1,3 +1,4 @@
+![[Tensorflow](https://img.shields.io/badge/Python-%20-blue)](www.python.org)
 # Customer-segementation
 ### Summary:
   - Marketing is crucial for the growth and sustainability of any business.
