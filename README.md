@@ -32,7 +32,7 @@
   - # TENURE: Tenure of credit card service for user
 ### Algorithms Used :
   **K-Means**
-    ![image](https://user-images.githubusercontent.com/46964929/180449750-a1475d78-d946-41a4-bac0-dddf9a01a9ef.png)
+    ![image](https://user-images.githubusercontent.com/46964929/180452560-39a513f2-92c1-467e-bd81-b05796f71ea7.png)
    - Kmeans is used for clustering the customers into different clusters
 
   **PCA (pricipal component analysis)**:
