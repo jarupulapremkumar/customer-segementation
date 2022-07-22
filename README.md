@@ -42,16 +42,11 @@
    **AutoEncoder:**
     - Since PCA is Linear Transformation Dimensionality reduction it is not suitable for non-linear data for that purpose we use deep learning Autoencoders for encoding non linear dataset.
     - We use Autoencoder for Dimensionality Reduction and then we use Kmeans for clustering that data also.
-    ![image](https://user-images.githubusercontent.com/46964929/180451736-cb53e57f-0a62-4522-b640-9f581064fc9b.png)
-
     
- ### Outcome :
-    - We Then assign the applicable cluster to the customers then using that data we can target the applicable customers with Ads or Offers
+   ![image](https://user-images.githubusercontent.com/46964929/180451736-cb53e57f-0a62-4522-b640-9f581064fc9b.png)
+### Outcome :
+   - We Then assign the applicable cluster to the customers then using that data we can target the applicable customers with Ads or Offers
     ![image](https://user-images.githubusercontent.com/46964929/180451829-0d7d3db7-e154-46f9-bf5e-0225238a839d.png)
-
-   
-
-
 
 
 
